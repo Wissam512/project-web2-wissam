@@ -40,6 +40,7 @@ export default function Navbar() {
           aria-label={isDarkMode ? "Switch to light mode" : "Switch to dark mode"}
         >
           {isDarkMode ? "☀️" : "🌙"}
+          <h1></>
         </button>
       </div>
     </nav>
