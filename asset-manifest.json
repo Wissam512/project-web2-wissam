@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/project-web2-wissam/static/css/main.d9a1b03b.css",
+    "main.js": "/project-web2-wissam/static/js/main.9f49a8dd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/project-web2-wissam/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Smart Watch.jpg": "/project-web2-wissam/static/media/Smart Watch.87b1fd3fcb5b6a43c08d.jpg",
+    "index.html": "/project-web2-wissam/index.html",
+    "main.d9a1b03b.css.map": "/project-web2-wissam/static/css/main.d9a1b03b.css.map",
+    "main.9f49a8dd.js.map": "/project-web2-wissam/static/js/main.9f49a8dd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/project-web2-wissam/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9a1b03b.css",
+    "static/js/main.9f49a8dd.js"
+  ]
+}
